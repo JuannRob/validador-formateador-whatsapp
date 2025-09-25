@@ -1,0 +1,16 @@
+{
+  "name": "formatter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "check": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "libphonenumber-js": "^1.11.7"
+  }
+}
